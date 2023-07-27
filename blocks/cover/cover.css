@@ -1,0 +1,35 @@
+.cover {
+  margin: 92px auto 0;
+  height: 740px;
+  width: 1184px;
+  background-image: url(../../images/__background.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(42, 44, 47, 0.3);
+  background-blend-mode: darken;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.cover:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    height: 746px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    overflow: hidden;
+  }
+}
+
+@media screen and (max-width: 656px) {
+  .cover {
+    margin-top: 64px;
+    height: 254px;
+  }
+}

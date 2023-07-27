@@ -1,0 +1,20 @@
+.introduction {
+  margin: 0 auto;
+  max-width: 1017px;
+  width: 95%;
+}
+
+@media screen and (max-width: 1024px) {
+  .introduction {
+    width: 93.6%;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+}
+
+@media screen and (max-width: 656px) {
+  .introduction {
+    width: 90%;
+  }
+}

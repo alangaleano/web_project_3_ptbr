@@ -1,0 +1,53 @@
+/* importação do arquivo normalize */
+@import url(../vendor/normalize.css);
+
+/* importação de fontes para a pagina */
+@import url(../vendor/inter.css);
+
+/* estilização da pagina */
+@import url(../blocks/pages/pages.css);
+
+/* padrões das citações */
+@import url(../blocks/cite/cite.css);
+
+/* padrões dos os quotes */
+@import url(../blocks/quote/quote.css);
+
+/* estilos do botoes da pagina NFT*/
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_text/button_text.css);
+
+/* estilização do Header */
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/_title/header_title.css);
+@import url(../blocks/header/_subtitle/header_subtitle.css);
+@import url(../blocks/header/_image/header_image.css);
+
+/* estilização do bloco intro */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/title/intro_title.css);
+@import url(../blocks/intro/text/intro_text.css);
+@import url(../blocks/intro/quote/intro_quote.css);
+@import url(../blocks/intro/cite/intro_cite.css);
+@import url(../blocks/grid/grid.css);
+@import url(../blocks/grid/_item/grid_images.css);
+
+/* aqui esta as estilizações do bloco places */
+@import url(../blocks/place-grid/place-grid.css);
+@import url(../blocks/places/place.css);
+@import url(../blocks/places/title/place_title.css);
+@import url(../blocks/places/text/place_text.css);
+@import url(../blocks/places/artist-name/place_artist-name.css);
+@import url(../blocks/places/artist/place_artist.css);
+@import url(../blocks/places/image/place_image.css);
+
+/* Aqui começa a estilização do bloco cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/_title/cover_title.css);
+@import url(../blocks/cover/_text/cover_text.css);
+@import url(../blocks/cover/_button/cover_button.css);
+
+/* aqui esta a estilização do footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/_copyright/footer_copyright.css);

@@ -1,0 +1,18 @@
+.header__image {
+  margin-top: 64px;
+  max-width: 984px;
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+@media screen and (max-width: 1024px) {
+  .header__image {
+    margin-top: 69px;
+  }
+}
+
+@media screen and (max-width: 656px) {
+  .header__image {
+    margin-top: 40px;
+  }
+}

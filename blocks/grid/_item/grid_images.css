@@ -1,0 +1,11 @@
+.grid__item {
+  margin: 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .grid__item {
+    max-width: 400px;
+    flex: 1 1 352px;
+  }
+}
