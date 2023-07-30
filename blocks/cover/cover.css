@@ -27,9 +27,12 @@
   }
 }
 
-@media screen and (max-width: 656px) {
+@media screen and (max-width: 768px) {
   .cover {
     margin-top: 64px;
-    height: 254px;
+    width: 48rem;
+    height: 46.625rem;
+    flex-shrink: 0;
+
   }
 }

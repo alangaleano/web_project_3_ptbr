@@ -7,7 +7,7 @@
   justify-self: flex-start;
 }
 
-@media screen and (max-width: 656px) {
+@media screen and (max-width: 768px) {
   .place__image {
     width: 110%;
     justify-self: center;

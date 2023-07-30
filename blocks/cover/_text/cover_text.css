@@ -3,6 +3,8 @@
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
+
+
 }
 
 .text-breakline::before {
@@ -15,5 +17,6 @@
     margin: 16px 0;
     font-size: 14px;
     line-height: 1.25;
+    text-align: center;
   }
 }
