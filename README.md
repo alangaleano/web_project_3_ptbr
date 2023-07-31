@@ -11,7 +11,7 @@ Este é um projeto que mostra as cidades de origem de alguns funcionários do Pr
 **Figma**  
   
 * [Link para o projeto no Figma](https://www.figma.com/file/SmvybPiUMHqeIxrAsOU8DC/Web_Brief_Sprint_4_PT-%7C-De-P%C3%A1tria-para-P%C3%A1tria-%7C-desktop-%2B-mobile?node-id=1%3A290&mode=dev)  
-* [Link para o projeto] (https://alangaleano.github.io/web_project_3_ptbr/)
+* [Link para o projeto ](https://alangaleano.github.io/web_project_3_ptbr/)  
   
 **Imagens**  
   
