@@ -36,3 +36,14 @@
 
   }
 }
+
+@media (max-width: 320px) {
+
+  .cover {
+    width: 20rem;
+    height: 15.875rem;
+    flex-shrink: 0;
+
+  }
+
+}
